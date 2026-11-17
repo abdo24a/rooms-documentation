@@ -23,8 +23,11 @@ AI can help analysts organise information and prepare investigation drafts, but 
 
 ## Files
 
-- [`key-learnings.md`](key-learnings.md) — expanded notes and personal reflections.
-- [`assets/linkedin-infographic.png`](/linkedin-infographic.png) — the LinkedIn infographic prepared for this learning milestone.
+## Repository Contents
+
+- [`key-learnings.md`](./key-learnings.md) — Expanded notes and personal reflections.
+- [LinkedIn Infographic](./linkedin-infographic.png) — Visual summary prepared for this learning milestone.
+- [`soc-incident-investigation-report.md`](./soc-incident-investigation-report.md) — SOC incident investigation report.
 
 ## Training reference
 
