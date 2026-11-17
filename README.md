@@ -33,9 +33,6 @@ AI can help analysts organise information and prepare investigation drafts, but 
 
 - [TryHackMe — AI in the Modern SOC](https://tryhackme.com/room/aiinthemodernsoc)
 
-## Publishing note
-
-These notes are intentionally written at a high level. They do not include flags, answers, task solutions, exact lab queries, step-by-step procedures, room screenshots, or lab-specific identifiers. Before publishing any additional room-specific write-up, check whether the room is officially marked as retired and review the [TryHackMe Acceptable Use Policy](https://tryhackme.com/legal/acceptable-use-policy). If the room is not marked as retired, treat it as active and do not publish its answers or walkthrough.
 
 ---
 
