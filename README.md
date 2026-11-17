@@ -24,7 +24,7 @@ AI can help analysts organise information and prepare investigation drafts, but 
 ## Files
 
 - [`key-learnings.md`](key-learnings.md) — expanded notes and personal reflections.
-- [`assets/linkedin-infographic.png`](assets/linkedin-infographic.png) — the LinkedIn infographic prepared for this learning milestone.
+- [`assets/linkedin-infographic.png`](/linkedin-infographic.png) — the LinkedIn infographic prepared for this learning milestone.
 
 ## Training reference
 
