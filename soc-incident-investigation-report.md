@@ -104,9 +104,9 @@ The following IP addresses were identified in the supplied notes. They have been
 
 | IP address (anonymized) | Current understanding |
 |---|---|
-| `192.0.2.77` | Potential internal destination |
-| `198.51.100.30` | Alternative possible destination |
-| `203.0.113.42` | Identified user workstation IP |
+| `10.40.20.77` | Potential internal destination |
+| `10.40.0.30` | Alternative possible destination |
+| `10.40.10.42` | Identified user workstation IP |
 
 The actual destination of the connection must be verified using the original network telemetry.
 
